@@ -293,7 +293,7 @@ Single slide style
   -o-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
 }
-.cd-hero-slider h2, .cd-hero-slider p {
+.cd-hero-slider h2, .cd-hero- {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   line-height: 1.2;
   margin: 0 auto 14px;
